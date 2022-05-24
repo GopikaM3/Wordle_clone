@@ -1,2 +1,2 @@
 # Wordle_clone
-new repo
+A clone of a popular game Wordle using HTML, CSS and JAVA SCRIPT.
